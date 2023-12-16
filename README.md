@@ -8,7 +8,7 @@
 	<a href="https://pypi.org/project/pytube/"><img src="https://img.shields.io/pypi/v/pytube?style=flat-square" /></a>
   </p>
 </div>
-
+######
 ### Actively soliciting contributors!
 
 Have ideas for how pytube can be improved? Feel free to open an issue or a pull request!
